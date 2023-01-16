@@ -6,7 +6,7 @@ namespace StringMaskerApp
         public static void usingMaskedString()
         {
             string Input = "Chinenye";
-
+            
            
             if (Input.Length <= (int)wordsUnmasked.UnmaskedWords)
             {
